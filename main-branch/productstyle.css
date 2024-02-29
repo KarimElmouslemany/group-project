@@ -1,1 +1,46 @@
-
+.motto {
+    font-family: gill sans, sans-serif;
+    text-align: left;
+    font-size: 32pt;
+    color: white;
+    padding-left: 175px;
+    margin-top: 150px;
+}
+ 
+.prodtext {
+    font-family: gill sans, sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    color: white;
+    padding-left: 175px;
+ 
+}
+ 
+.joinbutton {
+    font-family: gill sans, sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    padding-left: 195px;
+    top: 50px;
+ 
+}
+ 
+.img-div {
+    position: absolute;
+    top: 165px;
+    left: 900px;
+    z-index: 1;
+ 
+}
+ 
+.imginfo {
+    position: relative;
+    font-family: gill sans, sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    color: white;
+    padding-left: 900px;
+    top: 140px;
+    z-index: 2;
+ 
+}
